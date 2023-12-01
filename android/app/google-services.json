@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110794984018",
+    "project_id": "cgpa-calculator-st",
+    "storage_bucket": "cgpa-calculator-st.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110794984018:android:b8c50555aba132a345ad8b",
+        "android_client_info": {
+          "package_name": "com.sasanktumpati.cgpa_cal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSNBXRpllWzsMHjexItt1nn_McIQPdOdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
